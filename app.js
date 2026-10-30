@@ -6,8 +6,8 @@
   const STORE = "grey-sloan-pager-v1";
 
   // Replace this with your Render server URL once deployed.
-  const SERVER_URL = "https://YOUR-RENDER-SERVICE.onrender.com";
-
+const SERVER_URL = "https://grey-sloan-notification-server.onrender.com";
+  
   const VAPID_PUBLIC_KEY =
     "BH9PTluDWNLLt9q5gvloktIuzV3BCKHddd0y3xU3dzxKzvssLsapHhMf_M392Dkq1zLY-zNVL90xxXijs7MKH2w";
 
